@@ -1,4 +1,9 @@
-###                    Hi there 👋 I'm Akash Kumar
+###                       Hi there 👋 I'm Akash Kumar
+
+<img align="right" src="https://github.com/MrAkashKumar/mrAkashKumar/blob/master/stack.png" />
+
+- 🔭 I'm looking for a **job**
+- 🐧 I'm into Linux OS!
 
 <!--
 **MrAkashKumar/mrAkashKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
