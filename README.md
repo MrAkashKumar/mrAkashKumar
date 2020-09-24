@@ -1,6 +1,7 @@
 ###                       Hi there 👋 I'm Akash Kumar
-
-<img align="right" src="https://github.com/MrAkashKumar/mrAkashKumar/blob/master/The-7-Most.png" />
+<!--
+<img align="right" src="https://github.com/MrAkashKumar/mrAkashKumar/blob/master/The-7-Most.png" /> 
+-->
 
 - 🔭 I'm looking for a **job**
 - 🐧 I'm into Linux OS!
