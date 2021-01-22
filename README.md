@@ -3,8 +3,11 @@
 <img align="right" src="https://github.com/MrAkashKumar/mrAkashKumar/blob/master/The-7-Most.png" /> 
 -->
 
-- 🔭 I'm looking for a **job**
+- 🔭 I'm looking for a **Magic**
 - 🐧 I'm into Linux OS!
+- 🌱 **********Blank Anything************
+         I'm waiting for beautiful O.....**********
+- ⚡ fun fact zone  !!!!!!
 
 <!--
 **MrAkashKumar/mrAkashKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
