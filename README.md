@@ -5,7 +5,6 @@
 
 - 🔭 Coder || OpenSource Contribution
 - 🐧 I'm into Mac OS!
-- 🌱 **********Blank Anything************
 
 <!--
 **MrAkashKumar/mrAkashKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
