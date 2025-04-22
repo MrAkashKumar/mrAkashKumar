@@ -7,7 +7,7 @@
 - 🐧 I'm into Mac OS!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAkashKumar" alt="Akash-Kumar"/></a> </p>
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=MrAkashKumar&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=tamanna-verma&repo=github-visitors-badge&countColor=%237B1E7A)
 <!--
 **MrAkashKumar/mrAkashKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
