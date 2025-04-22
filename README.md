@@ -7,7 +7,9 @@
 - 🐧 I'm into Mac OS!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAkashKumar" alt="Akash-Kumar"/></a> </p>
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=tamanna-verma&repo=github-visitors-badge&countColor=%237B1E7A)
+
+<!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrakashkumar&left_color=gray&right_color=blue)-->
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=mrakashkumar&repo=github-visitors-badge&countColor=%237B1E7A)
 <!--
 **MrAkashKumar/mrAkashKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +27,6 @@
 - ⚡ Fun fact: ...
 -->
 drop enquiry - akashkr2929@gmail.com
+<br>
 <a href="https://www.linkedin.com/in/mrakashkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrakashkumar/" height="30" width="40" /></a> 
  
