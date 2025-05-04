@@ -29,4 +29,6 @@
 drop enquiry - akashkr2929@gmail.com || Akash Kumar || connect us
 <br>
 <a href="https://www.linkedin.com/in/mrakashkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrakashkumar/" height="30" width="40" /></a> 
+
+Thank you for visiting my profile 😊
  
