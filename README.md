@@ -43,7 +43,7 @@
 <a href="https://twitter.com/https://x.com/mrakashkum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mrakashkum" height="30" width="40" /></a>
 </p>
 
-Thank you for visiting my profile 😊
+Thank you for visiting my profile 😊😄
 
 <!--- --->
  
