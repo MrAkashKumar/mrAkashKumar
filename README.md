@@ -9,7 +9,7 @@
 - 🐧 I'm into Mac OS!
 - 🔭 I'm currently working on **AI, Java, Springboot, Microservices, GO, Python React, AWS**
 
-- 🌱 I'm currently learning **GO, Python React, Typescript, GraphQL**
+- 🌱 I'm currently learning **GO, Python React, Typescript, GraphQL, LLM, GenAI, AI **
 
 - 👯 I'm looking to collaborate on **Open Source**
 
