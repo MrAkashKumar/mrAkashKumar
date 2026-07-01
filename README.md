@@ -9,7 +9,7 @@
 - 🐧 I'm into Mac OS!
 - 🔭 I'm currently working on **AI, Java, Springboot, Microservices, GO, Python, React, AWS**
 - 🌱 I'm currently learning **GO, Python, React, Typescript, GraphQL, LLM, GenAI, AI**
-- 👯 I'm looking to collaborate on **Open Source** and open for collaboration 
+- 👯 I'm looking to collaborate on **Open Source** and open for collaboration. 
 
 <!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrakashkumar&left_color=gray&right_color=blue)-->
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=mrakashkumar&repo=github-visitors-badge&countColor=%237B1E7A)
