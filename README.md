@@ -29,7 +29,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me **akashkr2929@gmail.com**
+- 📫 reach me **akashkr2929@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
