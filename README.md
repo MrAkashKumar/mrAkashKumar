@@ -39,9 +39,7 @@
 </p>
 
 <!--- Project Information  -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAkashKumar&show_icons=true&theme=tokyonight&count_private=true" alt="Akash's GitHub Stats" />
-</p>
+
 
 <p align="left"> 
   <!-- Most Used Languages Breakdown -->
