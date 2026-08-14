@@ -46,7 +46,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrAkashKumar&layout=compact&theme=radial" alt="Akash's Top Languages" height="195" />
 </p>
 
-Thank you for visiting my profile 😊😄
+Thank you for visiting my profile 😊😊😄
 
 <!--- --->
  
