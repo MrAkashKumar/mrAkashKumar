@@ -8,7 +8,7 @@
 - 🔭 Coder || OpenSource Contribution
 - 🐧 I'm into Mac OS!
 - 🔭 I'm currently working on **AI, Java, Springboot, Microservices, GO, Python, React, AWS**
-- 🌱 I'm currently learning **GO, Python, React, Flutter, Typescript, GraphQL, LLM, GenAI, AI**
+- 🌱 I'm currently learning **GO, Python, React, Flutter, Typescript, GraphQL, LLM, GenAI, LangChain, AI**
 - 👯 I'm looking to collaborate on **Open Source** and open for collaboration. 
 
 <!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrakashkumar&left_color=gray&right_color=blue)-->
@@ -46,7 +46,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrAkashKumar&layout=compact&theme=radial" alt="Akash's Top Languages" height="195" />
 </p>
 
-Thank you for visiting my profile 😊😊😄
+Thank you for visiting my profile 😊😊😄😊😄
 
 <!--- --->
  
